@@ -1,0 +1,86 @@
+[
+  {
+    "ticket_id": "TICKET-001",
+    "subject": "Unable to connect Snowflake data source",
+    "description": "Hi, I'm trying to set up a Snowflake connection but I keep getting authentication errors. I've double-checked my credentials and they seem correct. Can someone help me troubleshoot this?",
+    "customer_name": "John Smith",
+    "created_at": "2024-01-15T10:30:00Z"
+  },
+  {
+    "ticket_id": "TICKET-002",
+    "subject": "How to create data lineage visualization?",
+    "description": "I'm new to Atlan and want to understand how to create and view data lineage for my tables. Could you provide step-by-step instructions?",
+    "customer_name": "Sarah Johnson",
+    "created_at": "2024-01-15T11:45:00Z"
+  },
+  {
+    "ticket_id": "TICKET-003",
+    "subject": "API rate limits are too restrictive!",
+    "description": "Your API rate limits are ridiculous! I can barely get any work done. We're paying for this service and expect better performance. This needs to be fixed immediately!",
+    "customer_name": "Mike Wilson",
+    "created_at": "2024-01-15T14:20:00Z"
+  },
+  {
+    "ticket_id": "TICKET-004",
+    "subject": "SSO integration with OKTA not working",
+    "description": "We've configured SSO with OKTA but users are unable to authenticate. The setup seems correct based on the documentation. Getting error: 'Invalid SAML response'.",
+    "customer_name": "Jennifer Chen",
+    "created_at": "2024-01-15T09:15:00Z"
+  },
+  {
+    "ticket_id": "TICKET-005",
+    "subject": "Best practices for data governance setup",
+    "description": "We're implementing data governance across our organization. What are the recommended best practices for setting up data policies and data stewardship in Atlan?",
+    "customer_name": "David Rodriguez",
+    "created_at": "2024-01-15T16:30:00Z"
+  },
+  {
+    "ticket_id": "TICKET-006",
+    "subject": "Power BI connector showing empty datasets",
+    "description": "The Power BI connector is connected but not showing any datasets or reports. The connection status shows as active. This is blocking our entire analytics team.",
+    "customer_name": "Lisa Anderson",
+    "created_at": "2024-01-16T08:45:00Z"
+  },
+  {
+    "ticket_id": "TICKET-007",
+    "subject": "How to use Python SDK for bulk operations?",
+    "description": "I need to perform bulk updates on asset metadata using the Python SDK. What's the most efficient way to do this? Any code examples would be helpful.",
+    "customer_name": "Robert Kim",
+    "created_at": "2024-01-16T12:00:00Z"
+  },
+  {
+    "ticket_id": "TICKET-008",
+    "subject": "Glossary terms not syncing across environments",
+    "description": "We have glossary terms defined in our dev environment but they're not appearing in production. Is there a way to sync these automatically?",
+    "customer_name": "Amanda Taylor",
+    "created_at": "2024-01-16T14:15:00Z"
+  },
+  {
+    "ticket_id": "TICKET-009",
+    "subject": "Sensitive data classification not working",
+    "description": "The automatic sensitive data classification isn't detecting PII in our tables. We have columns with SSNs and credit card numbers that should be flagged. Very concerning for compliance!",
+    "customer_name": "Thomas Brown",
+    "created_at": "2024-01-16T10:20:00Z"
+  },
+  {
+    "ticket_id": "TICKET-010",
+    "subject": "Question about data catalog search functionality",
+    "description": "I'm curious about the search capabilities in the data catalog. Can I search using custom metadata fields? Also, does it support fuzzy matching?",
+    "customer_name": "Emily White",
+    "created_at": "2024-01-16T15:45:00Z"
+  },
+  {
+    "ticket_id": "TICKET-011",
+    "subject": "Databricks Unity Catalog integration failing",
+    "description": "Tried to integrate with Databricks Unity Catalog but getting connection timeouts. This is urgent as we have a demo tomorrow with the executive team!",
+    "customer_name": "Carlos Martinez",
+    "created_at": "2024-01-17T07:30:00Z"
+  },
+  {
+    "ticket_id": "TICKET-012",
+    "subject": "How to set up automated data quality checks?",
+    "description": "We want to implement automated data quality monitoring. What are the steps to set up data quality checks and how can we get alerts when issues are detected?",
+    "customer_name": "Nicole Davis",
+    "created_at": "2024-01-17T13:10:00Z"
+  }
+]
