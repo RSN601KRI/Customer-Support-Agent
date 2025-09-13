@@ -398,8 +398,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or issues:
 - Open a GitHub issue
-- Contact: [your-email@domain.com]
-- Documentation: [Link to additional docs]
+- Contact: roshni06k2004@gmail.com
+- Documentation: https://docs.atlan.com/
 
 ## 🙏 Acknowledgments
 
